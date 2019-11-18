@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Protractor.Net.Standard</PackageId>
-    <Version>0.12.0</Version>
-    <Authors>Bao Trinh</Authors>
+    <Version>0.12.1</Version>
+    <Authors>Andressa Dantas</Authors>
     <Description>(.NET Standard 2.0 port of Protractor-Net) The .NET port of Protractor, an end to end test framework for AngularJS applications, built on top of Selenium WebDriver C# binding.</Description>
     <RepositoryUrl>https://github.com/qubidt/protractor-net-standard</RepositoryUrl>
     <PackageProjectUrl>https://github.com/qubidt/protractor-net-standard</PackageProjectUrl>
@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Selenium.WebDriver" Version="3.14.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
   </ItemGroup>
 
   <ItemGroup>
